@@ -34,4 +34,4 @@ Exit: Option to fight the final boss or continue exploring
 - Python 3.x
 
 ### Run the Game
-- bash
+python Dungeon_Game.py
